@@ -29,7 +29,7 @@ NOTE:date format mm/dd/yy
 ## /books
 
 GET: Get all books✅
-POST: Create/Add a new book✅
+POST: Create/Add a new books
 
 ## /books/{id}
 
@@ -43,7 +43,7 @@ GET: Get all issued books ✅
 ## /books/issued/withFine
 
 GET: Get all issued books with fine
-
+j
 # Subscription Types
 
 Basic (3 months)
@@ -55,7 +55,7 @@ and Subscription type is Standard
 the valid till date will be 01/02/23
 
 If he has an issued book and the issued book is to be returned at 01/01/23
-If he missed the date of return, then he gts a fine of Rs. 100./
+If he missed the date of return, then he bookss a fine of Rs. 100./
 
 If he has an issued book and the issued book is to be returned at 01/01/23
 If he missed the date of return, and his subscription also expires, then he will get a fine of Rs 200./
